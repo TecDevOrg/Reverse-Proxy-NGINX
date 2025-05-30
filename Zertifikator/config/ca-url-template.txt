@@ -1,0 +1,4 @@
+﻿"https://step-ca.example.com:9000"
+
+# Hier wird die Adresse der Step-CA benötigt.
+# Wenn das File ca-url.txt Fehler wird, kann dieses einfach gelöscht werden und dem Konfigurationsweg des Skriptes gefolgt werden.
